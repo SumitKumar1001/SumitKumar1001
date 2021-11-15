@@ -3,7 +3,7 @@
 
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="400" height="280" style=" padding:2%" />
 
-# नमस्ते (Namaste)🏻, I'm Sumit
+#Hi🏻, I'm Sumit
 
 ## I am passionate Full Stack Developer from India  
 
