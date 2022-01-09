@@ -8,7 +8,6 @@
 
 ## I am passionate Full Stack Developer from India  
 
-- 🔭 I’m currently working on Dev.to clone.
  
 - 👨‍💻 portfolio [@Sumit-kumar](https://react-portfolio-sanjaysumit10-gmailcom.vercel.app/)
 
